@@ -43,10 +43,10 @@ def getBestAlfaZ(T, k, Z, fileName, addText):
         TOTAL = res.count(True)
 
         end = time.time()
-        tempoTotal = (end - start)
+        totalTime = (end - start)
 
         with open(fileName, "a") as text_file:
-            text_file.write(f'{k};{alfa:.15f};{Z};{TOTAL};{tempoTotal:.2f};{addText};\n')
+            text_file.write(f'{k};{alfa:.15f};{Z};{TOTAL};{totalTime:.2f};{addText};\n')
         
         if TOTAL >= RESULT:
             MIN_ALFA = (MAX_ALFA - ((MAX_ALFA - MIN_ALFA) / 2))
