@@ -1,0 +1,7 @@
+*
+!*/
+!*.py
+!.gitignore
+!*.data
+!*.md
+!LICENSE.txt
