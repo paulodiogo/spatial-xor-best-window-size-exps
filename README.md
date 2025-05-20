@@ -30,7 +30,7 @@ Dados => **{k};{alpha};{z};{S};{t};{etc}**
 
 # To execute
 First, install the required dependency:
-> pip install mmh3
+> pip install mmh3==3.0.0
 
 Then, run the `main.py` script:
 > python main.py
