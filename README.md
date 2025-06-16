@@ -18,7 +18,7 @@ All the data is separated by ';'
 > The sizes of the array size used in the experiments was: 
 { 12.5k, 50k, 75k, 150k, 250k, 500k, 1M, 1.5M, 2M, 2.5M, 3M, 3.5M, 4M, 4.5M, 5M, 5.5M, 6M, 6.5M, 7M, 7.5M, 8M, 8.5M, 9M, 9.5M, 10M, 10.5M, 11M, 11.5M, 12M, 12.M, 50M }.
 
-Dados => **{k};{alpha};{z};{S};{t};{etc}**
+Data => **{k};{alpha};{z};{S};{t};{etc}**
 
 - k = Number of hash functions
 - alpha = Load factor
