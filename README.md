@@ -35,6 +35,8 @@ First, install the required dependency:
 Then, run the `main.py` script:
 > python main.py
 
+# Cite us
+
 ```
 @article{https://doi.org/10.1002/spe.70009,
 	author = {Diogo Rodrigues Leão, Paulo and de Souza Oliveira, Fabiano and Eustaquio Duarte Pinto, Paulo},
