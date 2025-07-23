@@ -37,6 +37,8 @@ Then, run the `main.py` script:
 
 # Cite us
 
+Paulo Diogo Rodrigues Leão,  Fabiano de Souza Oliveira,  Paulo Eustaquio Duarte Pinto, [Determination of the Optimal Window Size for the Spatial XOR Filter](https://onlinelibrary.wiley.com/doi/10.1002/spe.70009), Software: Practice and Experience, 2025. DOI: https://doi.org/10.1002/spe.70009
+
 ```
 @article{https://doi.org/10.1002/spe.70009,
 	author = {Diogo Rodrigues Leão, Paulo and de Souza Oliveira, Fabiano and Eustaquio Duarte Pinto, Paulo},
