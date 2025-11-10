@@ -44,10 +44,14 @@ Paulo Diogo Rodrigues Leão,  Fabiano de Souza Oliveira,  Paulo Eustaquio Duarte
 	author = {Diogo Rodrigues Leão, Paulo and de Souza Oliveira, Fabiano and Eustaquio Duarte Pinto, Paulo},
 	title = {Determination of the Optimal Window Size for the Spatial XOR Filter},
 	journal = {Software: Practice and Experience},
+    volume = {55},
+    number = {11},
+    pages = {1773-1784},
 	keywords = {optimal window size, spatial coupling, XOR filter},
 	doi = {https://doi.org/10.1002/spe.70009},
 	url = {https://onlinelibrary.wiley.com/doi/abs/10.1002/spe.70009},
-	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.70009}
+	eprint = {https://onlinelibrary.wiley.com/doi/pdf/10.1002/spe.70009},
+    year = {2025}
 }
 ```
 
